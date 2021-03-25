@@ -71,6 +71,13 @@ Get it now
 ----------
 ::
 
+This fix:
+
+   pip install git+https://github.com/MediaFuse/marshmallow-mongoengine.git#egg=marshmallow_mongoengine
+
+
+Original:
+
    pip install -U marshmallow-mongoengine
 
 License
