@@ -2,6 +2,10 @@
 History
 =======
 
+0.11.0.mf (2021-03-25)
+-------------------
+ - Fix compatibility with marshmallow 3 (replacing marshmallow.compat.with_metaclass with six.with metaclass)
+
 0.11.0 (2020-05-30)
 -------------------
  - Drop support for Python 2.7
